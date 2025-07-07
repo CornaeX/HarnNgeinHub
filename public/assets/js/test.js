@@ -2,7 +2,7 @@
 const expenses = [
   { name: 'Alice', amount: 200 },
   { name: 'Bob', amount: 100 },
-  { name: 'Carol', amount: 300 },
+  { name: 'Carol', amount: 900 },
   { name: 'Dave', amount: 0 }
 ];
 
